@@ -1,5 +1,5 @@
 # Data Analysis of Gamers Mental Health
-Welcome to the Gamer Mental Health Dataset repository. This dataset, curated by Marian Sauter, contains information from 13,000 gamers, focusing on their mental health status across various parameters, including Generalized Anxiety Disorder (GAD), Social Phobia Inventory (SPIN), and Satisfaction With Life (SWL). The primary objective of this study is to explore the mental health implications of gamers who engage in extended gaming sessions.
+Welcome to the Data Analysis Gamers Mental Health repository. This dataset, curated by Marian Sauter, contains information from 13,000 gamers, focusing on their mental health status across various parameters, including Generalized Anxiety Disorder (GAD), Social Phobia Inventory (SPIN), and Satisfaction With Life (SWL). The primary objective of this study is to explore the mental health implications of gamers who engage in extended gaming sessions.
 
 # Dataset
 The dataset used in this repository is available on the Open Science Framework (OSF) platform. You can access it at the following link: [Gamer Mental Health Dataset](https://osf.io/vnbxk/?view_only=your-view-only-link)
