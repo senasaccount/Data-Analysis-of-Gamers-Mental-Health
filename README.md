@@ -21,4 +21,4 @@ Gaming Motivations: Explore how different reasons for gaming relate to mental we
 Gaming Styles: Examine the impact of gaming styles on the mental health of extended gamers.
 
 # License
-This dataset is provided under the Creative Commons Attribution 4.0 International License.
+This project is provided under the MIT License.
