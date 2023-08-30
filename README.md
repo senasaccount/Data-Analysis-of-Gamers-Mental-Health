@@ -7,6 +7,7 @@ The dataset used in this repository is available on the Open Science Framework (
 
 # Dataset Overview
 Total Entries: 13,000
+
 Columns: Player ID, Age, Gender, Game Hours, Gaming Reason, Gaming Style, GAD Score, SPIN Score, SWL Score.
 
 # Analysis Highlights
